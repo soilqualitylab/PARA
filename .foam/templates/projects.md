@@ -1,6 +1,6 @@
 ---
 foam_template:
-  filepath: "/staging/${FOAM_TITLE}.md"
+  filepath: "src/1.Projects/staging/${FOAM_TITLE}.md"
   description: "Project template"
   title: ${FOAM_TITLE}
   date: ${FOAM_DATE_YMD}
