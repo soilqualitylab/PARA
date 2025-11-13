@@ -1,6 +1,10 @@
 # 10,000 Days Of Discipline: Symbiotic, BioMimetic Neuroarchitecture
 
-The goal of habitat is a symbiotic, biomimetic neuroarchitecture that supports our health, creativity and productivity over the next 10,000 days at least, or more if we live that ... the time horizon of this large PROJECT of projects is approximately 35 years, until at least 2060 ... and beyond. Our anti-materialist, anti-affluent abhorence of comfort means that we are building an old school martial arts dojo and structure for continual martial arts arts training.  This involves not only physical decluttering but also mental and digital decluttering for the purposes of spiritual sharpening, fostering an environment that promotes creativity, but primarily clarity and FOCUS on the soul ... RATHER than a structure for housing maintenance-intensive appliances, intrusion-rich automation systems and habitat for gadgets, gizmos and annoyances. 
+The goal of truly elegant, simple habitat design is about the practice of implementing a symbiotic, biomimetic neuroarchitecture that supports our health, creativity and productivity over the next 10,000 days at least, or more if we live that ... the time horizon of this large PROJECT of projects is approximately 35 years, until at least 2060 ... and beyond. 
+
+Our emphasis on elegance and resilience pushes us to our anti-materialist, anti-affluent abhorence of comfort ... a preference for discipline is rooted in the knowledge that discipline equals freedom. This means that we are building an old school martial arts dojo and structure for continual martial arts arts training. 
+
+Freedom is about not making decision that build prisons, but daily discipline also involves not only physical decluttering but also mental and digital decluttering for the purposes of spiritual sharpening, fostering an environment that promotes creativity, but primarily clarity and FOCUS on the soul ... RATHER than a structure for housing maintenance-intensive appliances, intrusion-rich automation systems and habitat for gadgets, gizmos and annoyances. 
 
 ---
 
