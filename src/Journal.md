@@ -1,5 +1,13 @@
 ## Daily Journal Notes
 
-* [Lifestyle self-programming through daily tasks improving built/landscaped environment](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-12.md)
-* [VERY long long-term project planning for personal lifelong projects](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-11.md)
-* [Thinking about scaffolding structure using the thoughts behind a simple flood wall](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-10.md)
+* [Epic 8: A 30-Topic "Refactoring" Backlog](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-18.md)
+* [Epic 7: The Sanctuary & Service (The 'Spiritual' & 'Sponsorship' Life)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-17.md)
+* [Epic 6: The Lab & Larder (The 'N-of-1' Research & 'Homesteading' Practice)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-16.md)
+* [Epic 5: The Permaculture Potager (The 'Homesteading' & 'Garden' Life)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-15.md)
+* [Epic 4: The Biophilic Dojo (The 'Martial Arts' Mindset & Body)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-14.md)
+* [Epic 3: Neuro-Programming & The Studio (The 'Artist's Studio' & Mind)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-13.md)
+* [Epic 2: Kaizen-DevOps Operations (The 35-Year Process)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-12.md)
+* [Epic 1: Symbiotic Foundations (The 'Bio-Mimetic' & 'Utilidor' Strategies)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-11.md)
+* [Weighted prioritization, ordering and evolvability of the project planning process](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-10.md)
+* [Lifestyle self-programming through daily tasks improving built/landscaped environment](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-09.md)
+* [Background Works Cited](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-08.md)
