@@ -12,7 +12,9 @@ Freedom is about not making decision that build prisons, but daily discipline al
 
 ---
 
-As a strategic matter to inculcate LEAN discipline, this project will be knowledge-intensive as opposed to being investment-intensive; our knowledge will primarily be aimed at lowering expenses and resource consumption, reducing or eliminating needs for investment and generally simplifying and eliminating, rather than adding new activity or new levels of waste. As a practical matter, each day will involve new research, but the daily "ground rule" or default daily physical task list for this project is 45 minutes of 5S activities focused on a particular room or area of the house OR, weather permitting 45 minutes of repositioning bags of flowers/herbs, weed pulling, digging/transplanting or shovelling snow.
+As a strategic matter to inculcate LEAN discipline, this project will be knowledge-intensive as opposed to being investment-intensive; our knowledge will primarily be aimed at lowering expenses and resource consumption, reducing or eliminating needs for investment and generally simplifying and eliminating, rather than adding new activity or new levels of waste. 
+
+As a practical matter, each day will involve new research, but the daily "ground rule" or default daily physical task list for this project is 45 minutes of 5S activities focused on a particular room or area of the house OR, weather permitting 45 minutes of repositioning bags of flowers/herbs, weed pulling, digging/transplanting or shovelling snow.
 
 To think LEAN is to continuously build LEAN discipline ... discipline equals freedom ...  our LEAN discipline will be a refelection of the Kaizen 5S methods that we research and develop, starting with a basis of imitation of [how others have applied 5S for daily home decluttering](https://leanfactories.com/how-to-declutter-your-home-using-the-5s-organization-method/):
 
