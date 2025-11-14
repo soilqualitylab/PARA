@@ -1,13 +1,13 @@
 ---
-title: De-coupling Services from Structure
+title: Integrating Tabata Training
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# De-coupling Services from Structure
+# Integrating Tabata Training
 
-This is a critical synthesis sprint, focusing on the intersection of 'Pace Layering' 8 and the 'Utilidor'.13 The research is on how to design the connection points—the "service ports" (Strategy \#7)—that allow the "fast" 'Services' layer 8 (plumbing, data) to be upgraded within the 'Utilidor' 13 without disturbing the "slow" 'Structure' layer.8 This design work is the key to the 35-year resilience of the 'Kaizen-DevOps' (Strategy \#2) plan, enabling non-disruptive "refactoring" (Strategy \#3).
+This sprint researches the "Tabata" 77 protocol 77 and how to design the environment for it. This involves creating a "safe" 78 outdoor/indoor 'Dojo' 37 space, potentially "in the park" 78 (the 'Permaculture' 23 landscape). The design will focus on "joint-friendly support" 4537 for the "all-out effort" 78 bursts.
 
 ## Daily Tasks
 

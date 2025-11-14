@@ -1,13 +1,13 @@
 ---
-title: Adaptive Building Envelopes
+title: Biophilic Personal Training Dojo
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Adaptive Building Envelopes
+# Biophilic Personal Training Dojo
 
-This sprint researches "biomimetic principles for the development of adaptive architectural envelopes".20 This 'Skin' 8 layer will be designed to respond to the environment passively, like a biological membrane, rather than actively through "machine" 14 systems. This research directly links the 'Bio-Mimetic' (40%) strategy to the 'Pace Layering' (9%) framework.8 It programs a mindset of "life-friendly chemistry" 19 and "low energy processes" 19 from the home's very "skin." 
+This sprint researches the specifics of [Biophilic Design](https://www.architectmagazine.com/technology/7-ways-to-enhance-indoor-environments-with-biophilic-design_o) 41 for a PERSONAL home gym 41 ... the principles and training regime are for the specific individual living in the home ... it is NOT a commercial dojo with regular training sessions or even a "workout at my place" kind of thing like a 'Gracie Garage'. This involves "indirect biophilia" 4242 and 'natural materials' 42 to "enhance motivation" 40 and "reduce stress" 41 in a "smaller" 41, "focused" 32 'Dojo' 37 space. This "programs" the "martial arts mindset" (user query) by connecting it to the 'Bio-Mimetic' 9 'Lighthouse Vision' (Strategy #9).
 
 ## Daily Tasks
 
@@ -18,7 +18,7 @@ This sprint researches "biomimetic principles for the development of adaptive ar
 * [Seiso (Shine)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Clean the workspace (the entire home).
 * [Seiketsu (Standardize)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Create a consistent, standard process.
 * [Shitsuke (Sustain)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): "Internalize each step" 50 to make the practice a "habit".
-
+ 
 ### GitHub Functionality For Discussions, Issues, Projects
 
 In addition to VS Code and the Foam extension, we will rely upon the GitHub Discussion and Issue functionality, BEFORE graduating something to "Project" status ... when something becomes a Project on GitHub, it will simultaneously become a PROJECT in our P.A.R.A. hierarchy. Please abide by the GitHub progression from ... [Discussions](https://docs.github.com/en/discussions) ...to... [Issue](https://docs.github.com/en/issues/guides) ...to... [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects):
@@ -51,3 +51,5 @@ A Project is the start of a bigger development commitment and the basis of the P
 ## Project Deadlines
 
 *Time DEADLINES are not goals, but rather firm drop-dead dates after which we don't bother anymore*.
+
+This sprint investigates synthetic biology 16 and living building systems to conceptualize the home's "metabolism," "lungs," and "breathing".15 This involves researching how to use "photosynthesis of plants and algae" 15 for energy/air quality and how the home can "respond to changes in the external environment" 15 like an organism. This research programs the mindset to treat the house as a biological partner to be "cultivated" and cared for, not a static object to be owned. This is the literal implementation of the 'Symbiotic' 10 strategy.  

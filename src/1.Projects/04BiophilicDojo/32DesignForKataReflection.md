@@ -1,15 +1,17 @@
 ---
-title: Pace Layering in Residential Architecture
+title: Designing for Kata and Reflection
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Pace Layering in Residential Architecture
+# Designing for Kata and Reflection
 
-This sprint involves a deep study of Stewart Brand's 6 'S' layers: Site, Structure, Skin, Services, Space Plan, and Stuff.8 This research provides the essential temporal framework for the 35-year project, understanding that "different parts... change at different speeds".7 This programs the mindset for long-term thinking 107, ensuring that "fast" layers 8 are not "obstructed" by "slow" layers.8 This is the 'Pace Layering' (Strategy \#9) in action.  
+This sprint moves beyond a "home gym" 41 and focuses on designing for "kata" 4 and "reflection".76 This requires "proper space planning" 76 with "enough space for movement" 76 (e.g., 'tai-sabaki' 4 or body management). The design will be non-distracting, with a "minimal" 37 'flow' 37 that "programs" the "mindful body" 2 for "individual martial art practice".4 
 
 ## Daily Tasks
+
+USE each space for "kata" 4 and "reflection".
 
 **Daily** tasks are all about internalizing the discipline of this philosophy ensures every design choice aims for "mutual harmony" with the natural environment. As you will recollect, the **daily** "ground rules" for this project will be the [Kaizen 5S method for daily home decluttering](https://leanfactories.com/how-to-declutter-your-home-using-the-5s-organization-method/):
 

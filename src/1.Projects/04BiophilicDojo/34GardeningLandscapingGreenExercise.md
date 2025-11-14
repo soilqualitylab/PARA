@@ -1,13 +1,13 @@
 ---
-title: Home as a "Living Organism"
+title: Gardening, Landscaping, Green Exercise
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Home as a "Living Organism"
+# Gardening, Landscaping, Green Exercise
 
-This sprint investigates synthetic biology 16 and living building systems to conceptualize the home's "metabolism," "lungs," and "breathing".15 This involves researching how to use "photosynthesis of plants and algae" 15 for energy/air quality and how the home can "respond to changes in the external environment" 15 like an organism. This research programs the mindset to treat the house as a biological partner to be "cultivated" and cared for, not a static object to be owned. This is the literal implementation of the 'Symbiotic' 10 strategy. 
+Not JUST for community greenspaces, this sprint investigates the "Green Gym" 44 concept, which moves beyond just putting plants in a room 40 to integrating the exercise with the outdoors.41 This provides the model for the 'Biophilic Dojo' 37, which will "blur boundaries" 27 between the indoor training space and the 'Permaculture' 23 landscape. This "programs" the "HIIT" 77 workout as an interaction with "nature".41
 
 ## Daily Tasks
 

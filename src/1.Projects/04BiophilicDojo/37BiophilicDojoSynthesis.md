@@ -1,13 +1,13 @@
 ---
-title: Residential Utilidor Design
+title: Biophilic Dojo Synthesis
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Residential Utilidor Design
+# Biophilic Dojo Synthesis
 
-This sprint researches the engineering, "substantial upfront investment" 13, and legal "feasibility" 61 of a human-accessible "utility corridor" 13 for a single-family residence. This is the core 'Foundational Platform' (Strategy \#10), which "significantly reduces the need for future excavations".13 This research "front-loads" the effort (Strategy \#10), programming a 35-year mindset of proactive maintenance and easy refactoring, as all utility work becomes a "light" task. This is the physical "chassis" for the 10,000-day project.
+This key 'Bio-Mimetic' (40%) design sprint focused on resolving the "contradiction" 68 between the "austere, minimal" 'Dojo' 37 and the "rich, complex" 'Biophilic' 40 design. The research will focus on "balancing tradition with modern design" 37 to create a space that has the "authenticity" 37 and old-school "soul" 37 of a 'Dojo' 46 and the nervous-system-calming 41 benefits of a 'Nature Gym'.44
 
 ## Daily Tasks
 

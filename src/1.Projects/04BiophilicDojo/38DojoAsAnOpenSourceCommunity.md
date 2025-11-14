@@ -1,13 +1,13 @@
 ---
-title: Modular Zone Microservice Architecture
+title: Dojo as an Open Source Community
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# 'Modular Zone' (Microservice) Architecture
+# Dojo as an Open Source Community
 
-This sprint applies the software concepts of "microservices" 52 and "modular" code 66 to the physical 'Modular Zone' (Strategy \#7). This involves designing "standardized utility ports" (Strategy \#7) for each room (kitchen, dojo, studio), so each "zone" can be independently "refactored" or "published." This research programs the mindset for 'Agile' (Strategy \#3) development, allowing one "microservice" 52 (e.g., the "artist's studio") to be upgraded without taking the whole system "offline." This is the micro-level implementation of 'Pace Layering'.8
+The dojo is for occupants and invited guests; it's NOT open hostel for homeless people OR a community center meeting room. This sprint is primarily virtual, not much of this is about shared physical space -- as such, it researches the 'Dojo's 37 role as an open source community 46 space that generally fosters broader application of the architecture and permaculture principles for a larger community and flow.37 There IS the possibility of conferences and hosted training seminars, but this is mostly about virtually, philosophically linking the 'Dojo' 46 epic to the 'Service' 102 epic. This research "programs" the 'Dojo' 37 as a multiple-use 'Modular Zone' (Strategy #7): it is a 'Sanctuary' 38 for private 'kata' 4, but also AT TIMES a 'Service' 104 space for public 'peer support' 103 and 'sponsorship'.105
 
 ## Daily Tasks
 
@@ -18,7 +18,7 @@ This sprint applies the software concepts of "microservices" 52 and "modular" co
 * [Seiso (Shine)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Clean the workspace (the entire home).
 * [Seiketsu (Standardize)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Create a consistent, standard process.
 * [Shitsuke (Sustain)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): "Internalize each step" 50 to make the practice a "habit".
- 
+
 ### GitHub Functionality For Discussions, Issues, Projects
 
 In addition to VS Code and the Foam extension, we will rely upon the GitHub Discussion and Issue functionality, BEFORE graduating something to "Project" status ... when something becomes a Project on GitHub, it will simultaneously become a PROJECT in our P.A.R.A. hierarchy. Please abide by the GitHub progression from ... [Discussions](https://docs.github.com/en/discussions) ...to... [Issue](https://docs.github.com/en/issues/guides) ...to... [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects):
@@ -51,5 +51,3 @@ A Project is the start of a bigger development commitment and the basis of the P
 ## Project Deadlines
 
 *Time DEADLINES are not goals, but rather firm drop-dead dates after which we don't bother anymore*.
-
-This sprint investigates synthetic biology 16 and living building systems to conceptualize the home's "metabolism," "lungs," and "breathing".15 This involves researching how to use "photosynthesis of plants and algae" 15 for energy/air quality and how the home can "respond to changes in the external environment" 15 like an organism. This research programs the mindset to treat the house as a biological partner to be "cultivated" and cared for, not a static object to be owned. This is the literal implementation of the 'Symbiotic' 10 strategy.  

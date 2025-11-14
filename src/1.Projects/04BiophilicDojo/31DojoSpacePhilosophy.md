@@ -1,13 +1,13 @@
 ---
-title: Architectural Symbiosis: Case Studies
+title: Dojo Space Philosophy
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Architectural Symbiosis: Case Studies
+# Dojo Space Philosophy
 
-This sprint analyzes built precedents like the 'Symbiotic House' in Taiwan 27 and the 'Orquideorama' botanical garden.17 The research focuses on designs that "blur boundaries between the inside and out" 27 and "make no distinction between natural and artificial".17 This provides a visual and practical library of "patterns" for achieving a symbiotic, non-materialist aesthetic rooted in "regional culture".27 This "Lighthouse" (Strategy \#9) research ensures the final design is both beautiful and philosophically "symbiotic".27  
+This sprint researches the traditional "philosophy of space in the dojo" 1, ... the layouts of dojos is not random, but reflects the heritage of optimized refinement passed down from own sifus to new masters to disciples ... where "discipline define[s] the design".37 This includes the 'Shomen' (front wall), 'Kamidana' (shrine) 46, "calligraphy scrolls," 37 and the core "dojo culture" 37 values of "order," "simplicity," 37 and "cleanliness at the core".37 This research "programs" the "martial arts mindset" (user query) by building an "authentic" 37 space that "respects tradition".37
 
 ## Daily Tasks
 
@@ -18,7 +18,7 @@ This sprint analyzes built precedents like the 'Symbiotic House' in Taiwan 27 an
 * [Seiso (Shine)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Clean the workspace (the entire home).
 * [Seiketsu (Standardize)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Create a consistent, standard process.
 * [Shitsuke (Sustain)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): "Internalize each step" 50 to make the practice a "habit".
-* 
+
 ### GitHub Functionality For Discussions, Issues, Projects
 
 In addition to VS Code and the Foam extension, we will rely upon the GitHub Discussion and Issue functionality, BEFORE graduating something to "Project" status ... when something becomes a Project on GitHub, it will simultaneously become a PROJECT in our P.A.R.A. hierarchy. Please abide by the GitHub progression from ... [Discussions](https://docs.github.com/en/discussions) ...to... [Issue](https://docs.github.com/en/issues/guides) ...to... [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects):

@@ -1,13 +1,13 @@
 ---
-title: Biomimicry vs Symbiosis
+title: Biophilic Gym Principles
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Biomimicry vs Symbiosis
+# Biophilic Gym Principles
 
-This topic researches the core philosophical difference between [biomemetic architecture which learns from nature's principles](https://en.wikipedia.org/wiki/Biomimetic_architecture) and [designing for mutualism with symbiotic architecture](https://medium.com/@azha.khan.6/symbiotic-architecture-designing-for-mutualism-between-humans-nature-and-technology-89c9b5e9e043) The point of this project is to understand the area will enough to define the primary 'Lighthouse Vision' of the home as a "living participant" in its ecosystem, not just a clever machine or nifty artistic structure that appears to be functional. This research helps to set up daily tasks which provide hands-on programming to instill a disciplined mindset that is about "giving back as much as it takes or spends", not just lowering costs, but also forming the basis of the key anti-materialist 'Bio-Mimetic' strategy for sustainable architecture which drive the entire larger 10,000 days project of 100 projects ... the first deliverable for each of these project areas is a backlog list of 100 daily tasks. 
+This sprint researches the core principles of "biophilic design" 40 for "wellness facilities" 41 including the weight room, heavy bag room, kitty living space. This involves using "natural light," "air-purifying plants" 40, and "natural materials" 4042 to create a "harmonious relationship between humans and the built environment".40 This research "programs" the "Dojo" 37 as a space that "enhances physical health" 40 and "reduces stress".41
 
 ## Daily Tasks
 
@@ -18,7 +18,7 @@ This topic researches the core philosophical difference between [biomemetic arch
 * [Seiso (Shine)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Clean the workspace (the entire home).
 * [Seiketsu (Standardize)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Create a consistent, standard process.
 * [Shitsuke (Sustain)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): "Internalize each step" 50 to make the practice a "habit".
-
+* 
 ### GitHub Functionality For Discussions, Issues, Projects
 
 In addition to VS Code and the Foam extension, we will rely upon the GitHub Discussion and Issue functionality, BEFORE graduating something to "Project" status ... when something becomes a Project on GitHub, it will simultaneously become a PROJECT in our P.A.R.A. hierarchy. Please abide by the GitHub progression from ... [Discussions](https://docs.github.com/en/discussions) ...to... [Issue](https://docs.github.com/en/issues/guides) ...to... [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects):
