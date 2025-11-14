@@ -1,5 +1,5 @@
 # Summary
 
-- [Program Yourself](Manifesto.md)
+- [Build Your Neuroarchitecture](Manifesto.md)
 
-- [Journal of this PKM Process](Journal.md)
+- [Project Journal](Journal.md)
