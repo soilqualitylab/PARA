@@ -1,13 +1,13 @@
 ---
-title: De-coupling Services from Structure
+title: Designing For Breaking Connection
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# De-coupling Services from Structure
+# Designing For Breaking Connection
 
-This is a critical synthesis sprint, focusing on the intersection of 'Pace Layering' 8 and the 'Utilidor'.13 The research is on how to design the connection points—the "service ports" (Strategy \#7)—that allow the "fast" 'Services' layer 8 (plumbing, data) to be upgraded within the 'Utilidor' 13 without disturbing the "slow" 'Structure' layer.8 This design work is the key to the 35-year resilience of the 'Kaizen-DevOps' (Strategy \#2) plan, enabling non-disruptive "refactoring" (Strategy \#3).
+This sprint focuses on a specific anti-materialist, anti-connection, anti-internet goal. It's perhaps about ensuring solitude, but practically it involves things like designing a library or "reading nook" based on neuroarchitecture.32 This will be an "intimate space" 32 with "soft and neutral colour palette[s]," 33 "sensory comfort" 33, and 'biophilic' 40 views. This "programs" the mindset to make "reading books for pleasure" (user query) the most desirable and "restorative" 43 activity, competing with "internet scrolling" (user query). 
 
 ## Daily Tasks
 
@@ -18,7 +18,7 @@ This is a critical synthesis sprint, focusing on the intersection of 'Pace Layer
 * [Seiso (Shine)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Clean the workspace (the entire home).
 * [Seiketsu (Standardize)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Create a consistent, standard process.
 * [Shitsuke (Sustain)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): "Internalize each step" 50 to make the practice a "habit".
-* 
+
 ### GitHub Functionality For Discussions, Issues, Projects
 
 In addition to VS Code and the Foam extension, we will rely upon the GitHub Discussion and Issue functionality, BEFORE graduating something to "Project" status ... when something becomes a Project on GitHub, it will simultaneously become a PROJECT in our P.A.R.A. hierarchy. Please abide by the GitHub progression from ... [Discussions](https://docs.github.com/en/discussions) ...to... [Issue](https://docs.github.com/en/issues/guides) ...to... [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects):

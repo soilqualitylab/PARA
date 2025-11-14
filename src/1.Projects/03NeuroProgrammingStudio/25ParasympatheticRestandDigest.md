@@ -1,13 +1,13 @@
 ---
-title: Architectural Symbiosis: Case Studies
+title: Amplifying Parasympathetic 'Rest and Digest'
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Architectural Symbiosis: Case Studies
+# Amplifying Parasympathetic 'Rest and Digest'
 
-This sprint analyzes built precedents like the 'Symbiotic House' in Taiwan 27 and the 'Orquideorama' botanical garden.17 The research focuses on designs that "blur boundaries between the inside and out" 27 and "make no distinction between natural and artificial".17 This provides a visual and practical library of "patterns" for achieving a symbiotic, non-materialist aesthetic rooted in "regional culture".27 This "Lighthouse" (Strategy \#9) research ensures the final design is both beautiful and philosophically "symbiotic".27  
+This sprint researches how to design spaces that actively balance the user's nervous system, promoting the "parasympathetic response (a.k.a Rest and Digest)" 43 over the "sympathetic response (a.k.a Fight or Flight)".43 This is crucial for recovery from 'HIIT' 77 training and "creative flow" 34 work. The research will focus on "mindfully designed spaces" 4338 that "amplify the rest and digest mode" 43, "programming" calm and recovery.
 
 ## Daily Tasks
 

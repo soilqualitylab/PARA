@@ -1,13 +1,13 @@
 ---
-title: Biomimicry vs Symbiosis
+title: Landscape Architecture of Sculpting
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Biomimicry vs Symbiosis
+# Landscape Architecture of Sculpting
 
-This topic researches the core philosophical difference between [biomemetic architecture which learns from nature's principles](https://en.wikipedia.org/wiki/Biomimetic_architecture) and [designing for mutualism with symbiotic architecture](https://medium.com/@azha.khan.6/symbiotic-architecture-designing-for-mutualism-between-humans-nature-and-technology-89c9b5e9e043) The point of this project is to understand the area will enough to define the primary 'Lighthouse Vision' of the home as a "living participant" in its ecosystem, not just a clever machine or nifty artistic structure that appears to be functional. This research helps to set up daily tasks which provide hands-on programming to instill a disciplined mindset that is about "giving back as much as it takes or spends", not just lowering costs, but also forming the basis of the key anti-materialist 'Bio-Mimetic' strategy for sustainable architecture which drive the entire larger 10,000 days project of 100 projects ... the first deliverable for each of these project areas is a backlog list of 100 daily tasks. 
+This sprint researches the "Element of Form" 110 and "Space" 74 in relation to the user's interest in sculpting and landscape architecture. This involves designing the landscape 27 and 'Potager' 86 itself as a large-scale sculpture garden, "blurring boundaries" 27 between 'Site' 8, 'Art' 7, and 'Structure'.8 This "programs" the mindset to see the "entire property" 22 as a "work-in-progress" (user query) "artist's studio".36
 
 ## Daily Tasks
 
@@ -18,7 +18,7 @@ This topic researches the core philosophical difference between [biomemetic arch
 * [Seiso (Shine)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Clean the workspace (the entire home).
 * [Seiketsu (Standardize)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Create a consistent, standard process.
 * [Shitsuke (Sustain)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): "Internalize each step" 50 to make the practice a "habit".
-
+ 
 ### GitHub Functionality For Discussions, Issues, Projects
 
 In addition to VS Code and the Foam extension, we will rely upon the GitHub Discussion and Issue functionality, BEFORE graduating something to "Project" status ... when something becomes a Project on GitHub, it will simultaneously become a PROJECT in our P.A.R.A. hierarchy. Please abide by the GitHub progression from ... [Discussions](https://docs.github.com/en/discussions) ...to... [Issue](https://docs.github.com/en/issues/guides) ...to... [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects):
@@ -51,3 +51,5 @@ A Project is the start of a bigger development commitment and the basis of the P
 ## Project Deadlines
 
 *Time DEADLINES are not goals, but rather firm drop-dead dates after which we don't bother anymore*.
+
+This sprint investigates synthetic biology 16 and living building systems to conceptualize the home's "metabolism," "lungs," and "breathing".15 This involves researching how to use "photosynthesis of plants and algae" 15 for energy/air quality and how the home can "respond to changes in the external environment" 15 like an organism. This research programs the mindset to treat the house as a biological partner to be "cultivated" and cared for, not a static object to be owned. This is the literal implementation of the 'Symbiotic' 10 strategy.  

@@ -1,13 +1,13 @@
 ---
-title: Residential Utilidor Design
+title: Design For Creative Flow
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Residential Utilidor Design
+# Design For Creative Flow
 
-This sprint researches the engineering, "substantial upfront investment" 13, and legal "feasibility" 61 of a human-accessible "utility corridor" 13 for a single-family residence. This is the core 'Foundational Platform' (Strategy \#10), which "significantly reduces the need for future excavations".13 This research "front-loads" the effort (Strategy \#10), programming a 35-year mindset of proactive maintenance and easy refactoring, as all utility work becomes a "light" task. This is the physical "chassis" for the 10,000-day project.
+This sprint studies the neuroscience of "flow" 34, which is "a state in which people are so involved in an activity that nothing else seems to matter".34 Neuroimaging shows this "flow state" 34 involves the 'default-mode network' and a "release of control".34 The "artist's studio" 36 must be continuously designed and re-designed to facilitate and improve flow, with "expansive" spaces 32 and sensory stimuli 33 that encourage this "letting go".34 This "programs" the artist 7 mindset. 
 
 ## Daily Tasks
 

@@ -1,13 +1,13 @@
 ---
-title: Ecosystem-Level Mimicry
+title: Biophilic Design Acoustics
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Ecosystem-Level Mimicry
+# Biophilic Design Acoustics 
 
-This sprint moves [beyond mimicking just single organisms](https://scholarworks.uark.edu/cgi/viewcontent.cgi?params=/context/archuht/article/1070/&path_info=Hammond_Utilizing_Biomimicry_to_Design_Sustainable_Architecture_Honors_Capstone_Final.pdf) to [mimicking the "six principles" of a biomicry spiral in an entire economically-sustainable ecosystem](https://en.wikipedia.org/wiki/Biomimetic_architecture#Biomimicry_Spiral). This involves researching [how natural ecosystems "run smoothly" through diversity, feedback loops, and resource recycling.](https://www.learnbiomimicry.com/blog/biomimicry-lifes-principles) Applying the knowledge from this area programs the mindset to think in systems as in 'DevOps' strategic thinking, ensuring the house and landscape function as one interdependent, self-regulating entity. This research is the core of the 'Bio-Mimetic' strategy and applying "ecosystem" principles to sustainable architecture which will drive the entire larger 10,000 days project of 100 projects ... the first deliverable for each of these project areas is a backlog list of 100 daily tasks. 
+This sprint researches "Biophilic Acoustic Design" 71 for the user's silence, sound or music interest. It involves using "living plants," "green walls" 73, and natural materials 71 as "superior sound dampeners" 71 that are more effective than "dead" wood.71 This "programs" the "music studio" as a 'Bio-Mimetic' 9 space, creating an "acoustically "restorative" 43 environment that "reconnect[s] workers with the natural world".73
 
 ## Daily Tasks
 

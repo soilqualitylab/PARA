@@ -1,14 +1,14 @@
 ---
-title: Modular Zone Microservice Architecture
+title: Home As Psychological Canvas
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# 'Modular Zone' (Microservice) Architecture
+# Home As Psychological Canvas
 
-This sprint applies the software concepts of "microservices" 52 and "modular" code 66 to the physical 'Modular Zone' (Strategy \#7). This involves designing "standardized utility ports" (Strategy \#7) for each room (kitchen, dojo, studio), so each "zone" can be independently "refactored" or "published." This research programs the mindset for 'Agile' (Strategy \#3) development, allowing one "microservice" 52 (e.g., the "artist's studio") to be upgraded without taking the whole system "offline." This is the micro-level implementation of 'Pace Layering'.8
-
+This sprint researches the concept of a home as a "psychological canvas".75 This philosophical sprint ties the entire epic together, reframing the "artist's studio" not as one room, but as the entire property. The "lived-in" (user query) 'Dojo' 37 "actively participants" 75 in the user's "mental and emotional journeys".75 This "programs" the mindset by "harness[ing] the power of... surroundings to support... profound personal transformation".75
+    
 ## Daily Tasks
 
 **Daily** tasks are all about internalizing the discipline of this philosophy ensures every design choice aims for "mutual harmony" with the natural environment. As you will recollect, the **daily** "ground rules" for this project will be the [Kaizen 5S method for daily home decluttering](https://leanfactories.com/how-to-declutter-your-home-using-the-5s-organization-method/):
@@ -18,7 +18,7 @@ This sprint applies the software concepts of "microservices" 52 and "modular" co
 * [Seiso (Shine)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Clean the workspace (the entire home).
 * [Seiketsu (Standardize)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Create a consistent, standard process.
 * [Shitsuke (Sustain)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): "Internalize each step" 50 to make the practice a "habit".
- 
+
 ### GitHub Functionality For Discussions, Issues, Projects
 
 In addition to VS Code and the Foam extension, we will rely upon the GitHub Discussion and Issue functionality, BEFORE graduating something to "Project" status ... when something becomes a Project on GitHub, it will simultaneously become a PROJECT in our P.A.R.A. hierarchy. Please abide by the GitHub progression from ... [Discussions](https://docs.github.com/en/discussions) ...to... [Issue](https://docs.github.com/en/issues/guides) ...to... [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects):

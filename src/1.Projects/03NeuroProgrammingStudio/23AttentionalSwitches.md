@@ -1,13 +1,13 @@
 ---
-title: Pace Layering in Residential Architecture
+title: Disrupting Habit With Attentional Switches
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Pace Layering in Residential Architecture
+# Disrupting Habit With Attentional Switches
 
-This sprint involves a deep study of Stewart Brand's 6 'S' layers: Site, Structure, Skin, Services, Space Plan, and Stuff.8 This research provides the essential temporal framework for the 35-year project, understanding that "different parts... change at different speeds".7 This programs the mindset for long-term thinking 107, ensuring that "fast" layers 8 are not "obstructed" by "slow" layers.8 This is the 'Pace Layering' (Strategy \#9) in action.  
+The environment of architecture "programs" the "martial arts mindset" of presence, pulling the user out of "mind-wandering" 31 and into the "present moment". This knowledge sprint focuses on a specific neuro-architectural tactic: designing spaces not just like "Scarpa's stairs," 3, but walls, doors, floors that "disrupt habitual movements".3 This "disruption" acts as an "attentional switch" 3, creating "time delays" 3 that "allow users to consciously experience their surroundings".3 This "programs" the "martial arts mindset" (user query) of presence, pulling the user out of "mind-wandering" 31 and into the "present moment".3
 
 ## Daily Tasks
 

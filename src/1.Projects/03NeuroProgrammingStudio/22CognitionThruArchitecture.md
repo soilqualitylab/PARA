@@ -1,14 +1,14 @@
 ---
-title: Digital Twin Simulation-First Strategy 
+title: Embodied Cognition and Architecture
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# 'Digital Twin' (Simulation-First) Strategy  
+# Embodied Cognition and Architecture
 
-This sprint researches the software (e.g., Building Information Modeling \- BIM) and methods for creating a 1-to-1 "Digital Twin" (Strategy \#2) of the physical home. This simulation will be the 'sandbox' environment where all 'Kaizen' 11 improvements, 'n-of-1' 89 experiments, and 'Agile Refactoring' (Strategy \#3) sprints are "tested virtually before physical work" (Strategy \#2). This "simulation-first" (Strategy \#2) 'DevOps' 12 practice minimizes waste, "automates" 12 planning, and "programs" a mindset of "measure twice, cut once" for the 35-year project.
-    
+This sprint is a philosophical and practical study of how "the body... constitute[s] or contribute[s] to cognition" 29 and how the "built environment... interacts with multisensory body-related processing".30 The research will be used to design spaces that demand "mindful" 2 interaction. This "programs" the user's mind through their "mindful body" 2, "connecting... movements with emotions and memories" 2 as a daily practice.
+
 ## Daily Tasks
 
 **Daily** tasks are all about internalizing the discipline of this philosophy ensures every design choice aims for "mutual harmony" with the natural environment. As you will recollect, the **daily** "ground rules" for this project will be the [Kaizen 5S method for daily home decluttering](https://leanfactories.com/how-to-declutter-your-home-using-the-5s-organization-method/):
@@ -18,7 +18,7 @@ This sprint researches the software (e.g., Building Information Modeling \- BIM)
 * [Seiso (Shine)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Clean the workspace (the entire home).
 * [Seiketsu (Standardize)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Create a consistent, standard process.
 * [Shitsuke (Sustain)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): "Internalize each step" 50 to make the practice a "habit".
-
+* 
 ### GitHub Functionality For Discussions, Issues, Projects
 
 In addition to VS Code and the Foam extension, we will rely upon the GitHub Discussion and Issue functionality, BEFORE graduating something to "Project" status ... when something becomes a Project on GitHub, it will simultaneously become a PROJECT in our P.A.R.A. hierarchy. Please abide by the GitHub progression from ... [Discussions](https://docs.github.com/en/discussions) ...to... [Issue](https://docs.github.com/en/issues/guides) ...to... [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects):
@@ -51,5 +51,3 @@ A Project is the start of a bigger development commitment and the basis of the P
 ## Project Deadlines
 
 *Time DEADLINES are not goals, but rather firm drop-dead dates after which we don't bother anymore*.
-
-This sprint investigates synthetic biology 16 and living building systems to conceptualize the home's "metabolism," "lungs," and "breathing".15 This involves researching how to use "photosynthesis of plants and algae" 15 for energy/air quality and how the home can "respond to changes in the external environment" 15 like an organism. This research programs the mindset to treat the house as a biological partner to be "cultivated" and cared for, not a static object to be owned. This is the literal implementation of the 'Symbiotic' 10 strategy.  
