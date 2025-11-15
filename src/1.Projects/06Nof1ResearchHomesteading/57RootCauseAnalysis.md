@@ -1,13 +1,13 @@
 ---
-title: De-coupling Services from Structure
+title: Workshop as Root Cause Analysis Hub
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# De-coupling Services from Structure
+# Workshop as Root Cause Analysis Hub
 
-This is a critical synthesis sprint, focusing on the intersection of 'Pace Layering' 8 and the 'Utilidor'.13 The research is on how to design the connection points—the "service ports" (Strategy \#7)—that allow the "fast" 'Services' layer 8 (plumbing, data) to be upgraded within the 'Utilidor' 13 without disturbing the "slow" 'Structure' layer.8 This design work is the key to the 35-year resilience of the 'Kaizen-DevOps' (Strategy \#2) plan, enabling non-disruptive "refactoring" (Strategy \#3).
+This sprint links the 'Kaizen' 58 philosophy to the 'Tinkering' workshop.56 The workshop will be the "lab" 93 for 'Root Cause Analysis' 5858 for any "failure" in the 'Bio-Mimetic' 9 home. When something breaks, the process is to "tinker" (user query) until the root cause is found and "refactored".12 This "programs" a mindset of solving problems 58, not just fixing symptoms.
 
 ## Daily Tasks
 

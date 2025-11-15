@@ -1,13 +1,13 @@
 ---
-title: Home as a "Living Organism"
+title: Food Preservation
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Home as a "Living Organism"
+# Food Preservation: Canning
 
-This sprint investigates synthetic biology 16 and living building systems to conceptualize the home's "metabolism," "lungs," and "breathing".15 This involves researching how to use "photosynthesis of plants and algae" 15 for energy/air quality and how the home can "respond to changes in the external environment" 15 like an organism. This research programs the mindset to treat the house as a biological partner to be "cultivated" and cared for, not a static object to be owned. This is the literal implementation of the 'Symbiotic' 10 strategy. 
+This sprint researches the "canning process" 98, which "involves placing foods in jars... and heating them to a temperature that destroys microorganisms".98 This sprint also includes the safety and legal requirements 99 (e.g., "test[ing] it at an approved commercial laboratory" for "pH of 4.6 or lower," 99). This "programs" the "homesteading" 87 "self-sufficiency" 87 lifestyle, ensuring the "food preservation lab" 95 is safe and "effective".90 
 
 ## Daily Tasks
 

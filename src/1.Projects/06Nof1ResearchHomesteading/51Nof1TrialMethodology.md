@@ -1,13 +1,13 @@
 ---
-title: Biomimicry vs Symbiosis
+title: N-of-1 Trial Methodology
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Biomimicry vs Symbiosis
+# 'N-of-1' Trial Methodology
 
-This topic researches the core philosophical difference between [biomemetic architecture which learns from nature's principles](https://en.wikipedia.org/wiki/Biomimetic_architecture) and [designing for mutualism with symbiotic architecture](https://medium.com/@azha.khan.6/symbiotic-architecture-designing-for-mutualism-between-humans-nature-and-technology-89c9b5e9e043) The point of this project is to understand the area will enough to define the primary 'Lighthouse Vision' of the home as a "living participant" in its ecosystem, not just a clever machine or nifty artistic structure that appears to be functional. This research helps to set up daily tasks which provide hands-on programming to instill a disciplined mindset that is about "giving back as much as it takes or spends", not just lowering costs, but also forming the basis of the key anti-materialist 'Bio-Mimetic' strategy for sustainable architecture which drive the entire larger 10,000 days project of 100 projects ... the first deliverable for each of these project areas is a backlog list of 100 daily tasks. 
+This sprint researches the "n-of-1" 89 or "do-it-yourself" 91 clinical trial methodology. This "single-patient" 89 approach is the scientific method for the 35-year project, providing a "controlled trial" 89 framework for "personalized nutrition research".89 This "programs" the "researcher" (user query) mindset, rejecting "conventional 'one-size-fits-all' approach[es]".89 
 
 ## Daily Tasks
 

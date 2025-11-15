@@ -1,14 +1,14 @@
 ---
-title: Adaptive Building Envelopes
+title: N-of-1 vs. One-Size-Fits-All
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Adaptive Building Envelopes
+# N-of-1 vs. One-Size-Fits-All
 
-This sprint researches "biomimetic principles for the development of adaptive architectural envelopes".20 This 'Skin' 8 layer will be designed to respond to the environment passively, like a biological membrane, rather than actively through "machine" 14 systems. This research directly links the 'Bio-Mimetic' (40%) strategy to the 'Pace Layering' (9%) framework.8 It programs a mindset of "life-friendly chemistry" 19 and "low energy processes" 19 from the home's very "skin." 
-
+This is a foundational "Lighthouse" (Strategy #9) research sprint into the philosophy of "personalized nutrition".89 This rejects the "conventional 'one-size-fits-all' approach" 89 that defines the "affluent materialist" (user query) lifestyle. This research "programs" the "anti-materialist" (user query) mindset, fully embracing the 'N-of-1' 89 "experimental" 93 "Dojo" 37 lifestyle.
+    
 ## Daily Tasks
 
 **Daily** tasks are all about internalizing the discipline of this philosophy ensures every design choice aims for "mutual harmony" with the natural environment. As you will recollect, the **daily** "ground rules" for this project will be the [Kaizen 5S method for daily home decluttering](https://leanfactories.com/how-to-declutter-your-home-using-the-5s-organization-method/):
@@ -51,3 +51,5 @@ A Project is the start of a bigger development commitment and the basis of the P
 ## Project Deadlines
 
 *Time DEADLINES are not goals, but rather firm drop-dead dates after which we don't bother anymore*.
+
+This sprint investigates synthetic biology 16 and living building systems to conceptualize the home's "metabolism," "lungs," and "breathing".15 This involves researching how to use "photosynthesis of plants and algae" 15 for energy/air quality and how the home can "respond to changes in the external environment" 15 like an organism. This research programs the mindset to treat the house as a biological partner to be "cultivated" and cared for, not a static object to be owned. This is the literal implementation of the 'Symbiotic' 10 strategy.  

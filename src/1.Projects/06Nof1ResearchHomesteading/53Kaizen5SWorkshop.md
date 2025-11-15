@@ -1,13 +1,13 @@
 ---
-title: Ecosystem-Level Mimicry
+title: Kaizen 5S Workshop
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Ecosystem-Level Mimicry
+# Kaizen 5S Workshop
 
-This sprint moves [beyond mimicking just single organisms](https://scholarworks.uark.edu/cgi/viewcontent.cgi?params=/context/archuht/article/1070/&path_info=Hammond_Utilizing_Biomimicry_to_Design_Sustainable_Architecture_Honors_Capstone_Final.pdf) to [mimicking the "six principles" of a biomicry spiral in an entire economically-sustainable ecosystem](https://en.wikipedia.org/wiki/Biomimetic_architecture#Biomimicry_Spiral). This involves researching [how natural ecosystems "run smoothly" through diversity, feedback loops, and resource recycling.](https://www.learnbiomimicry.com/blog/biomimicry-lifes-principles) Applying the knowledge from this area programs the mindset to think in systems as in 'DevOps' strategic thinking, ensuring the house and landscape function as one interdependent, self-regulating entity. This research is the core of the 'Bio-Mimetic' strategy and applying "ecosystem" principles to sustainable architecture which will drive the entire larger 10,000 days project of 100 projects ... the first deliverable for each of these project areas is a backlog list of 100 daily tasks. 
+This is the 'Tinkering' and 'Maintenance' (user query) sprint. It involves applying the '5S' 'Kaizen' 56 methodology to the workshop.56 The goal is "A place for everything, and everything in its place".56 This "programs" the "tinkering" (user query) mindset, creating an "organized and productive" 56 space where "tools" 57 are accessible, "less time" 57 is wasted, and "maintenance" 94 is "effortless".50
 
 ## Daily Tasks
 

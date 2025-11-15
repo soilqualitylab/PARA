@@ -1,13 +1,13 @@
 ---
-title: Architectural Symbiosis: Case Studies
+title: Tools and Maintenance as Kaizen
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Architectural Symbiosis: Case Studies
+# Tools and Maintenance as Kaizen
 
-This sprint analyzes built precedents like the 'Symbiotic House' in Taiwan 27 and the 'Orquideorama' botanical garden.17 The research focuses on designs that "blur boundaries between the inside and out" 27 and "make no distinction between natural and artificial".17 This provides a visual and practical library of "patterns" for achieving a symbiotic, non-materialist aesthetic rooted in "regional culture".27 This "Lighthouse" (Strategy \#9) research ensures the final design is both beautiful and philosophically "symbiotic".27  
+This is a philosophical sprint about reframing "tinkering, tools, maintenance" (user query). These are not "chores".50 They are the core of the 'Kaizen' 11 "continuous improvement" 47 process. The '5S Workshop' 56 is the "Dojo" 37 for this practice. This "programs" the "martial arts mindset" (user query) of discipline and respect for one's "tools" 57 and "environment".56
 
 ## Daily Tasks
 
@@ -18,7 +18,7 @@ This sprint analyzes built precedents like the 'Symbiotic House' in Taiwan 27 an
 * [Seiso (Shine)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Clean the workspace (the entire home).
 * [Seiketsu (Standardize)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Create a consistent, standard process.
 * [Shitsuke (Sustain)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): "Internalize each step" 50 to make the practice a "habit".
-* 
+ 
 ### GitHub Functionality For Discussions, Issues, Projects
 
 In addition to VS Code and the Foam extension, we will rely upon the GitHub Discussion and Issue functionality, BEFORE graduating something to "Project" status ... when something becomes a Project on GitHub, it will simultaneously become a PROJECT in our P.A.R.A. hierarchy. Please abide by the GitHub progression from ... [Discussions](https://docs.github.com/en/discussions) ...to... [Issue](https://docs.github.com/en/issues/guides) ...to... [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects):
@@ -51,3 +51,5 @@ A Project is the start of a bigger development commitment and the basis of the P
 ## Project Deadlines
 
 *Time DEADLINES are not goals, but rather firm drop-dead dates after which we don't bother anymore*.
+
+This sprint investigates synthetic biology 16 and living building systems to conceptualize the home's "metabolism," "lungs," and "breathing".15 This involves researching how to use "photosynthesis of plants and algae" 15 for energy/air quality and how the home can "respond to changes in the external environment" 15 like an organism. This research programs the mindset to treat the house as a biological partner to be "cultivated" and cared for, not a static object to be owned. This is the literal implementation of the 'Symbiotic' 10 strategy.  
