@@ -16,7 +16,7 @@ As a strategic matter to inculcate LEAN discipline, this project will be knowled
 
 As a practical matter, each day will involve new research, but the daily "ground rule" or default daily physical task list for this project is 45 minutes of 5S activities focused on a particular room or area of the house OR, weather permitting 45 minutes of repositioning bags of flowers/herbs, weed pulling, digging/transplanting or shovelling snow.
 
-To think LEAN is to continuously build LEAN discipline ... discipline equals freedom ...  our LEAN discipline will be a refelection of the Kaizen 5S methods that we research and develop, starting with a basis of imitation of [how others have applied 5S for daily home decluttering](https://leanfactories.com/how-to-declutter-your-home-using-the-5s-organization-method/):
+To think LEAN is to continuously root-cause every opportunity, to use disappoints to build LEAN discipline ... discipline equals freedom ...  our LEAN discipline will be a refelection of the Kaizen 5S methods that we research and develop, starting with a basis of imitation of [how others have applied 5S for daily home decluttering](https://leanfactories.com/how-to-declutter-your-home-using-the-5s-organization-method/):
 
 * [Seiri (Sort)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Eliminate the unnecessary.
 * [Seiton (Set in Order)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): A place for everything, and everything in its place.
