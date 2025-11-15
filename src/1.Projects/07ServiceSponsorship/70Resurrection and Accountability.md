@@ -1,13 +1,13 @@
 ---
-title: Digital Twin Simulation-First Strategy 
+title: Resurrection and Accountability
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# 'Digital Twin' (Simulation-First) Strategy  
+# Resurrection and Accountability
 
-This sprint researches the software (e.g., Building Information Modeling \- BIM) and methods for creating a 1-to-1 "Digital Twin" (Strategy \#2) of the physical home. This simulation will be the 'sandbox' environment where all 'Kaizen' 11 improvements, 'n-of-1' 89 experiments, and 'Agile Refactoring' (Strategy \#3) sprints are "tested virtually before physical work" (Strategy \#2). This "simulation-first" (Strategy \#2) 'DevOps' 12 practice minimizes waste, "automates" 12 planning, and "programs" a mindset of "measure twice, cut once" for the 35-year project.
+This is the final, philosophical "Lighthouse" (Strategy #9) sprint. This is about researching the meaning of "resurrection" and "accountability" (user query) as actions 102, not just "worship activities" (user query). This research will form the ethos of the 'Service' 104 mission. This "programs" the purpose 47 of the 10,000-day 'Dojo' 37 project.
     
 ## Daily Tasks
 

@@ -1,13 +1,13 @@
 ---
-title: Adaptive Building Envelopes
+title: Asset-Based Community Development
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Adaptive Building Envelopes
+# Asset-Based Community Development
 
-This sprint researches "biomimetic principles for the development of adaptive architectural envelopes".20 This 'Skin' 8 layer will be designed to respond to the environment passively, like a biological membrane, rather than actively through "machine" 14 systems. This research directly links the 'Bio-Mimetic' (40%) strategy to the 'Pace Layering' (9%) framework.8 It programs a mindset of "life-friendly chemistry" 19 and "low energy processes" 19 from the home's very "skin." 
+This sprint researches the "asset-based community development" 102 theory. This is the philosophy for the "service" goal. The 'Symbiotic Home' 10 itself will be "mapped" as a "natural asset" 102 for the "recovery community".102 This "programs" the 'sponsorship' 105 goal, "foster[ing] mutually beneficial relationships" 102 and fulfilling the 'Permaculture' 23 'Fair Share' 23 ethic.
 
 ## Daily Tasks
 
@@ -18,7 +18,7 @@ This sprint researches "biomimetic principles for the development of adaptive ar
 * [Seiso (Shine)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Clean the workspace (the entire home).
 * [Seiketsu (Standardize)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Create a consistent, standard process.
 * [Shitsuke (Sustain)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): "Internalize each step" 50 to make the practice a "habit".
-
+* 
 ### GitHub Functionality For Discussions, Issues, Projects
 
 In addition to VS Code and the Foam extension, we will rely upon the GitHub Discussion and Issue functionality, BEFORE graduating something to "Project" status ... when something becomes a Project on GitHub, it will simultaneously become a PROJECT in our P.A.R.A. hierarchy. Please abide by the GitHub progression from ... [Discussions](https://docs.github.com/en/discussions) ...to... [Issue](https://docs.github.com/en/issues/guides) ...to... [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects):

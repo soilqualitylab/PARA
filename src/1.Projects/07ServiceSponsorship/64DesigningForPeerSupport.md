@@ -1,13 +1,13 @@
 ---
-title: Residential Utilidor Design
+title: Designing for Peer Support
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Residential Utilidor Design
+# Designing for Peer Support
 
-This sprint researches the engineering, "substantial upfront investment" 13, and legal "feasibility" 61 of a human-accessible "utility corridor" 13 for a single-family residence. This is the core 'Foundational Platform' (Strategy \#10), which "significantly reduces the need for future excavations".13 This research "front-loads" the effort (Strategy \#10), programming a 35-year mindset of proactive maintenance and easy refactoring, as all utility work becomes a "light" task. This is the physical "chassis" for the 10,000-day project.
+This is the "Service" (user query) sprint. It involves researching the spatial needs of "peer support services" 104 and "support groups".103 This is not "clinical" 104 design. It is about "designing... peer recovery support" 102 spaces that are safe, non-hierarchical, "community asset[s]" 102, and "foster... mutually beneficial relationships".102 This "programs" the 'Dojo' 37 as a "community space".46 
 
 ## Daily Tasks
 

@@ -1,13 +1,13 @@
 ---
-title: De-coupling Services from Structure
+title: Urban Monastery Design
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# De-coupling Services from Structure
+# Urban Monastery Design
 
-This is a critical synthesis sprint, focusing on the intersection of 'Pace Layering' 8 and the 'Utilidor'.13 The research is on how to design the connection points—the "service ports" (Strategy \#7)—that allow the "fast" 'Services' layer 8 (plumbing, data) to be upgraded within the 'Utilidor' 13 without disturbing the "slow" 'Structure' layer.8 This design work is the key to the 35-year resilience of the 'Kaizen-DevOps' (Strategy \#2) plan, enabling non-disruptive "refactoring" (Strategy \#3).
+This sprint analyzes "urban monastery" 101 designs as a 'Bio-Mimetic' 9 case study. This research focuses on using materials 101 and "fine and fragile" 101 details to "blur... scales" 101 and "encourage a state of contemplation".101 This "programs" the "anti-materialist" (user query) aesthetic, "balancing tradition" 37 with a "monastic" 101 focus on "solitude and reflection".101
 
 ## Daily Tasks
 

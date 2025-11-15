@@ -1,13 +1,13 @@
 ---
-title: Pace Layering in Residential Architecture
+title: Contemplative Designer Framework
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Pace Layering in Residential Architecture
+# Contemplative Designer Framework
 
-This sprint involves a deep study of Stewart Brand's 6 'S' layers: Site, Structure, Skin, Services, Space Plan, and Stuff.8 This research provides the essential temporal framework for the 35-year project, understanding that "different parts... change at different speeds".7 This programs the mindset for long-term thinking 107, ensuring that "fast" layers 8 are not "obstructed" by "slow" layers.8 This is the 'Pace Layering' (Strategy \#9) in action.  
+This sprint studies the "Contemplative Designer" framework 39 to learn how to "intentionally create spaces of deeper connection".39 This research provides the method for designing 'Sanctuary' 38 spaces that "induce dramatic changes in... brain patterns" 39 similar to "long term contemplative practitioners".39 This "programs" the designer 39 mindset, "cultivat[ing] 'internal' technologies" 39 of "empathy" 39 and "wonder".39
 
 ## Daily Tasks
 

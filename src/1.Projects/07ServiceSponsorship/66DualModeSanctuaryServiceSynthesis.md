@@ -1,13 +1,13 @@
 ---
-title: Ecosystem-Level Mimicry
+title: Dual-Mode Sanctuary-Service Synthesis
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Ecosystem-Level Mimicry
+# Dual-Mode Sanctuary-Service Synthesis
 
-This sprint moves [beyond mimicking just single organisms](https://scholarworks.uark.edu/cgi/viewcontent.cgi?params=/context/archuht/article/1070/&path_info=Hammond_Utilizing_Biomimicry_to_Design_Sustainable_Architecture_Honors_Capstone_Final.pdf) to [mimicking the "six principles" of a biomicry spiral in an entire economically-sustainable ecosystem](https://en.wikipedia.org/wiki/Biomimetic_architecture#Biomimicry_Spiral). This involves researching [how natural ecosystems "run smoothly" through diversity, feedback loops, and resource recycling.](https://www.learnbiomimicry.com/blog/biomimicry-lifes-principles) Applying the knowledge from this area programs the mindset to think in systems as in 'DevOps' strategic thinking, ensuring the house and landscape function as one interdependent, self-regulating entity. This research is the core of the 'Bio-Mimetic' strategy and applying "ecosystem" principles to sustainable architecture which will drive the entire larger 10,000 days project of 100 projects ... the first deliverable for each of these project areas is a backlog list of 100 daily tasks. 
+This is the key design challenge of this epic. It's about designing a 'Modular Zone' (Strategy #7) that can be both a 'Sanctuary' for "intimate communion with solitude" 38 and a 'Service' space for "peer support groups".103 The design must be functionally modular, transforming 8 from one to the other without compromising the "psychological safety" 75 of either mode. This "programs" the flexibility 11 of the 'Dojo'.37  
 
 ## Daily Tasks
 
