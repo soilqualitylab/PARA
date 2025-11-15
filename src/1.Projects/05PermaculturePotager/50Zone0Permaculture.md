@@ -1,14 +1,14 @@
 ---
-title: Residential Utilidor Design
+title: Zone 0 Permaculture
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Residential Utilidor Design
+# Zone 0 Permaculture
 
-This sprint researches the engineering, "substantial upfront investment" 13, and legal "feasibility" 61 of a human-accessible "utility corridor" 13 for a single-family residence. This is the core 'Foundational Platform' (Strategy \#10), which "significantly reduces the need for future excavations".13 This research "front-loads" the effort (Strategy \#10), programming a 35-year mindset of proactive maintenance and easy refactoring, as all utility work becomes a "light" task. This is the physical "chassis" for the 10,000-day project.
-
+This sprint researches the "boundary between permaculture and architecture".25 Permaculture's "Zone 0" is the house.25 This sprint will analyze how to design the 'Structure' 8 and 'Skin' 8 of the house itself as the "center of the permaculture system".21 This "programs" the 'Bio-Mimetic' (40%) strategy at the deepest level, making the "house" 15 and "garden" 83 "one symbiotic, self-refactoring system" (Strategy #1).
+    
 ## Daily Tasks
 
 **Daily** tasks are all about internalizing the discipline of this philosophy ensures every design choice aims for "mutual harmony" with the natural environment. As you will recollect, the **daily** "ground rules" for this project will be the [Kaizen 5S method for daily home decluttering](https://leanfactories.com/how-to-declutter-your-home-using-the-5s-organization-method/):
@@ -18,7 +18,7 @@ This sprint researches the engineering, "substantial upfront investment" 13, and
 * [Seiso (Shine)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Clean the workspace (the entire home).
 * [Seiketsu (Standardize)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Create a consistent, standard process.
 * [Shitsuke (Sustain)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): "Internalize each step" 50 to make the practice a "habit".
-* 
+
 ### GitHub Functionality For Discussions, Issues, Projects
 
 In addition to VS Code and the Foam extension, we will rely upon the GitHub Discussion and Issue functionality, BEFORE graduating something to "Project" status ... when something becomes a Project on GitHub, it will simultaneously become a PROJECT in our P.A.R.A. hierarchy. Please abide by the GitHub progression from ... [Discussions](https://docs.github.com/en/discussions) ...to... [Issue](https://docs.github.com/en/issues/guides) ...to... [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects):
@@ -51,3 +51,5 @@ A Project is the start of a bigger development commitment and the basis of the P
 ## Project Deadlines
 
 *Time DEADLINES are not goals, but rather firm drop-dead dates after which we don't bother anymore*.
+
+This sprint investigates synthetic biology 16 and living building systems to conceptualize the home's "metabolism," "lungs," and "breathing".15 This involves researching how to use "photosynthesis of plants and algae" 15 for energy/air quality and how the home can "respond to changes in the external environment" 15 like an organism. This research programs the mindset to treat the house as a biological partner to be "cultivated" and cared for, not a static object to be owned. This is the literal implementation of the 'Symbiotic' 10 strategy.  

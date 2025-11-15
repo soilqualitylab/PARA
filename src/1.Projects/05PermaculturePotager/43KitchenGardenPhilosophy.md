@@ -1,13 +1,13 @@
 ---
-title: De-coupling Services from Structure
+title: Kitchen Garden Philosophy
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# De-coupling Services from Structure
+# Kitchen Garden Philosophy
 
-This is a critical synthesis sprint, focusing on the intersection of 'Pace Layering' 8 and the 'Utilidor'.13 The research is on how to design the connection points—the "service ports" (Strategy \#7)—that allow the "fast" 'Services' layer 8 (plumbing, data) to be upgraded within the 'Utilidor' 13 without disturbing the "slow" 'Structure' layer.8 This design work is the key to the 35-year resilience of the 'Kaizen-DevOps' (Strategy \#2) plan, enabling non-disruptive "refactoring" (Strategy \#3).
+This sprint researches the history and design of the French "potager".85 It is not a "farm".60 It is an aesthetic "tasting garden" 83 that "intermingle[s] vegetables, fruits, herbs, medicinal... and flowers" 85 in "symmetrical" 112 beds. This "programs" the "artist's studio" 36 mindset, reframing the "homesteading" 87 goal as an act of art.7
 
 ## Daily Tasks
 

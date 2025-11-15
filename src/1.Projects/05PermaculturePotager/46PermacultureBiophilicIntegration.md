@@ -1,13 +1,13 @@
 ---
-title: Architectural Symbiosis: Case Studies
+title: Integrating Permaculture and Biophilic Design
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Architectural Symbiosis: Case Studies
+# Integrating Permaculture and Biophilic Design
 
-This sprint analyzes built precedents like the 'Symbiotic House' in Taiwan 27 and the 'Orquideorama' botanical garden.17 The research focuses on designs that "blur boundaries between the inside and out" 27 and "make no distinction between natural and artificial".17 This provides a visual and practical library of "patterns" for achieving a symbiotic, non-materialist aesthetic rooted in "regional culture".27 This "Lighthouse" (Strategy \#9) research ensures the final design is both beautiful and philosophically "symbiotic".27  
+This sprint explores the "symbiotic" 10 relationship between permaculture 21 and 'biophilic design'.23 The 'Potager' 83 will be designed as the primary 'biophilic' "view" 40 from the 'Dojo' 37 and 'Studio'.36 This "programs" the 'Bio-Mimetic' (40%) strategy, "reconnecting people with nature" 23 by visually and functionally "blurring boundaries".27 
 
 ## Daily Tasks
 

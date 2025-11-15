@@ -1,13 +1,13 @@
 ---
-title: Adaptive Building Envelopes
+title: Permaculture Philosophy as a Worldview
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Adaptive Building Envelopes
+# Permaculture Philosophy as a Worldview
 
-This sprint researches "biomimetic principles for the development of adaptive architectural envelopes".20 This 'Skin' 8 layer will be designed to respond to the environment passively, like a biological membrane, rather than actively through "machine" 14 systems. This research directly links the 'Bio-Mimetic' (40%) strategy to the 'Pace Layering' (9%) framework.8 It programs a mindset of "life-friendly chemistry" 19 and "low energy processes" 19 from the home's very "skin." 
+This sprint researches permaculture "not [as] a variation of organic gardening" 24, but as a "way to view the world" 81 and a "design system" 21 for "sustainable human environments".21 It is the "art of making connections" 24 and "noticing systems".81 This "Lighthouse" (Strategy #9) research "programs" the 'Bio-Mimetic' (40%) mindset, grounding the 10,000-day project in the "Earth Care" 23 ethics.
 
 ## Daily Tasks
 

@@ -1,13 +1,13 @@
 ---
-title: Ecosystem-Level Mimicry
+title: Designing the Potager Lifestyle
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Ecosystem-Level Mimicry
+# Designing the Potager Lifestyle
 
-This sprint moves [beyond mimicking just single organisms](https://scholarworks.uark.edu/cgi/viewcontent.cgi?params=/context/archuht/article/1070/&path_info=Hammond_Utilizing_Biomimicry_to_Design_Sustainable_Architecture_Honors_Capstone_Final.pdf) to [mimicking the "six principles" of a biomicry spiral in an entire economically-sustainable ecosystem](https://en.wikipedia.org/wiki/Biomimetic_architecture#Biomimicry_Spiral). This involves researching [how natural ecosystems "run smoothly" through diversity, feedback loops, and resource recycling.](https://www.learnbiomimicry.com/blog/biomimicry-lifes-principles) Applying the knowledge from this area programs the mindset to think in systems as in 'DevOps' strategic thinking, ensuring the house and landscape function as one interdependent, self-regulating entity. This research is the core of the 'Bio-Mimetic' strategy and applying "ecosystem" principles to sustainable architecture which will drive the entire larger 10,000 days project of 100 projects ... the first deliverable for each of these project areas is a backlog list of 100 daily tasks. 
+The "daily tasks" 83 (planting, weeding, harvesting) are the 'kata' 4 of this 'Dojo'.37 Thus, this sprint defines the 'Potager' 85 as a "living dojo".37 The design will be "symmetrical" 112, "enclosed" 83, and "a space you do not want to leave".84 This "programs" the mindset by "painting a picture with plants" 86, turning "maintenance" (user query) into a "meditative practice" 31 of "creativity".86
 
 ## Daily Tasks
 

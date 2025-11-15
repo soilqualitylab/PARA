@@ -1,13 +1,13 @@
 ---
-title: Home as a "Living Organism"
+title: Vertical Gardening and Trellising 
 type: project
 tags: goals, requirements, deadlines
 alias: ideation, planned, in-process, completed, reviewed
 ---
 
-# Home as a "Living Organism"
+# Vertical Gardening and Trellising 
 
-This sprint investigates synthetic biology 16 and living building systems to conceptualize the home's "metabolism," "lungs," and "breathing".15 This involves researching how to use "photosynthesis of plants and algae" 15 for energy/air quality and how the home can "respond to changes in the external environment" 15 like an organism. This research programs the mindset to treat the house as a biological partner to be "cultivated" and cared for, not a static object to be owned. This is the literal implementation of the 'Symbiotic' 10 strategy. 
+This sprint researches how to "utilize every space" 84 in the 'Potager' 83 by "growing vertically".84 This involves using "natural material" 8484 and "salvaged material" 84 to create "arches" 84 and "teepee trellis[es]".84 This "programs" the "artist's" 86 and 'Kaizen' 1119 mindsets, "adding... depth to the space" 84 while maximizing "self-sufficiency".87
 
 ## Daily Tasks
 
@@ -18,7 +18,7 @@ This sprint investigates synthetic biology 16 and living building systems to con
 * [Seiso (Shine)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Clean the workspace (the entire home).
 * [Seiketsu (Standardize)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): Create a consistent, standard process.
 * [Shitsuke (Sustain)](https://www.testahomes.com/en/the-kaizen-method-keep-your-house-clean-and-tidy-3/): "Internalize each step" 50 to make the practice a "habit".
-* 
+
 ### GitHub Functionality For Discussions, Issues, Projects
 
 In addition to VS Code and the Foam extension, we will rely upon the GitHub Discussion and Issue functionality, BEFORE graduating something to "Project" status ... when something becomes a Project on GitHub, it will simultaneously become a PROJECT in our P.A.R.A. hierarchy. Please abide by the GitHub progression from ... [Discussions](https://docs.github.com/en/discussions) ...to... [Issue](https://docs.github.com/en/issues/guides) ...to... [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects):
