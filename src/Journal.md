@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [Exploring the "Dynamic View" from GoogleLabs with Gemini 3.0 Pro](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-19.md)
 * [25-minute physical "activity snacks" focused on movement, home 5S, re-planning](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-19.md)
 * [Epic 8: A 30-Topic "Refactoring" Backlog](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-18.md)
 * [Epic 7: The Sanctuary & Service (The 'Spiritual' & 'Sponsorship' Life)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-17.md)
