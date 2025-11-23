@@ -1,5 +1,7 @@
 ## Daily Journal Notes
 
+* [Maximize value per unit, depends upon constantly upgraded, simplified specs](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-23.md)
+* [Constantly improve your specs by using those specs and refactoring per results](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-23.md)
 * [Developing the ***Magic Thingerator*** per your specs, means constantly improving your specs](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-21.md)
 * [Exploring the "Dynamic View" from GoogleLabs with Gemini 3.0 Pro](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-20.md)
 * [25-minute physical "activity snacks" focused on movement, home 5S, re-planning](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-19.md)
