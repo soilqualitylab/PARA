@@ -1,5 +1,6 @@
 ## Daily Journal Notes
 
+* [2026-2076: Autopoietic, Antifragile Ecosystems of Knowledge Engineering](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-26.md) 
 * [MORE examples of long-term building of LIVING soil by building and HEALTHY LIVING soil-building ecosystems](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-25.md)
 * [Soil building with zero-cost, low maintenance, erosion control, year around SOM improvement](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-24.md)
 * [Maximize value per unit, depends upon constantly upgraded, simplified specs](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-23.md)
