@@ -1,6 +1,12 @@
 ## Daily Journal Notes
 
-* [Ecological Engineering of Pedogenesis: 10,000-Day Ecosystem Foundation Building Strategy](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-28.md)
+* [Re-Thinking Epic 7: The Sanctuary & Service (The 'Spiritual' & 'Sponsorship' Life)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-12-04.md)
+* [Re-Thinking Epic 6: The Lab & Pantry (The 'N-of-1' Research & 'Homesteading' Practice)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-12-03.md)
+* [Re-Thinking Epic 5: The Permaculture Potager (The 'Homesteading' & 'Garden' Life)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-12-02.md)
+* [Re-Thinking Epic 4: The Biophilic Dojo (The 'Martial Arts' Mindset & Body)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-12-01.md)
+* [Re-Thinking Epic 3: Neuro-Programming & The Studio (The 'Artist's Studio' & Mind)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-30.md)
+* [Re-Thinking Epic 2: Kaizen-DevOps Operations (The 35-Year Process)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-29.md)
+* [Re-Thinking Epic 1: Symbiotic Foundations (The 'Bio-Mimetic' & 'Utilidor' Strategies)](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-28.md)
 * [2026-2076 Expansion: Ecological Engineering of Pedogenesis](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-27.md) 
 * [2026-2076: Autopoietic, Antifragile Ecosystems of Knowledge Engineering](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-26.md) 
 * [MORE examples of long-term building of LIVING soil by building and HEALTHY LIVING soil-building ecosystems](https://github.com/soilqualitylab/PARA/tree/main/journal/2025-11-25.md)
